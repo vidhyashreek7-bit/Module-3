@@ -16,9 +16,9 @@ To write a Python program that filters out and returns all elements from a list 
 ## 🧾 Program
 ```
 import re
-l1=['goal','new','user','sit','eat','dinner']
-filter=[item for item in items if not re.search('e',item)]
-print(filter)
+list1=['goal','new','user','sit','eat','dinner']
+l1=[item for item in items if not re.search('e',item)]
+print(l1)
 ```
 ## Output
 <img width="718" height="354" alt="image" src="https://github.com/user-attachments/assets/3afba3cf-afda-43dc-ad0a-ff475cfab3d3" />
