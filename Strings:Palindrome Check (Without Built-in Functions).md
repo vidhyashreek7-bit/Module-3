@@ -21,7 +21,10 @@ else:
 ```
 
 ## Output
-<img width="1299" height="417" alt="image" src="https://github.com/user-attachments/assets/4ced3cac-5b2a-4b1b-a19b-2462e38be267" />
+
+![3 3](https://github.com/user-attachments/assets/02964489-83e7-465e-a0f5-bc38fd3ab858)
+
+
 
 ## Result
 Thus the program is executed successfully.
