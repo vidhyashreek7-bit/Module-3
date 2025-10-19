@@ -17,7 +17,9 @@ print("8" in tuplex)
 ```
 
 ## Output
-<img width="1060" height="454" alt="image" src="https://github.com/user-attachments/assets/52beb847-965b-4cec-b9aa-e82d2158de55" />
+
+![3 4](https://github.com/user-attachments/assets/189fbc2c-17fa-47ea-a554-a646f8e07944)
+
 
 
 ## Result
