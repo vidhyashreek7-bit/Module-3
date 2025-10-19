@@ -16,7 +16,7 @@ To write a Python program that filters out and returns all elements from a list 
 ## 🧾 Program
 ```
 import re
-list1=['goal','new','user','sit','eat','dinner']
+items=['goal','new','user','sit','eat','dinner']
 l1=[item for item in items if not re.search('e',item)]
 print(l1)
 ```
